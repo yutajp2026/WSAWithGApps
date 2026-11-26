@@ -1,4 +1,7 @@
 # Windows Subsystem for Android with GApps
+
+[日本語版に移動](/README.md)
+
 > [!WARNING]
 > The Windows Subsystem for Android (WSA) itself was discontinued on March 5, 2025.
 
