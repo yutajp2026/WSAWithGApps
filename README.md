@@ -1,3 +1,3 @@
 # WSAWithGApps
-[MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal)でビルドしたGoogle Apps入りWSA。  
-英語にも対応。
+A version of WSA with Google Apps, built using [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal).  
+Also supports English.
