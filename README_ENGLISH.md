@@ -3,7 +3,7 @@
 [日本語版に移動](/README.md)
 
 > [!WARNING]
-> The Windows Subsystem for Android (WSA) itself was discontinued on March 5, 2025.
+> The [WSA](https://learn.microsoft.com/en-us/previous-versions/windows/android/wsa/) itself was discontinued on March 5, 2025.
 
 
 A version of WSA with Google Apps, built using [MagiskOnWSALocal](https://github.com/LSPosed/MagiskOnWSALocal).  
